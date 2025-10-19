@@ -6,6 +6,6 @@ layout: default
 
 Solar Survivors is a web demo for a survivors-like game set in space.
 
-[Play Game](/webprojects/solarsurvivors/)
+[Try it out](/webprojects/solarsurvivors/)
 
 [back](/)
