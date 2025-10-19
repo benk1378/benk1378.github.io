@@ -4,6 +4,6 @@ layout: default
 
 ## ROCK
 
-_yay_
+Rock
 
-[back](./)
+[back](/)
