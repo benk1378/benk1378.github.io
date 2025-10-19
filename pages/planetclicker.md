@@ -4,6 +4,6 @@ layout: default
 
 ## Planet Clicker
 
-yay
+Planet Clicker is a clicker game made using pygame.
 
 [back](/)

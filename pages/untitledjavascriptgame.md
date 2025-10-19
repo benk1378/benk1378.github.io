@@ -4,6 +4,8 @@ layout: default
 
 ## Untitled JavaScript Game
 
-yay
+This untitled JavaScript game is a web demo for a grid-based auto-battler roguelike. It is incredibly unfinished.
+
+[Play "Game"](/games/untitledjavascriptgame/)
 
 [back](/)
