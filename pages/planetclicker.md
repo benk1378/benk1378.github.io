@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## ROCK
+## Planet Clicker
 
 yay
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## ROCK
+## Untitled JavaScript Game
 
 yay
 

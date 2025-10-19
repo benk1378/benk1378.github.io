@@ -10,13 +10,18 @@ Currently I have three main games that I'm working on:
 *   [Chopper](./pages/chopper.html)
 *   [Yummy Dungeon](./pages/yummydungeon.html)
 
-These are all being developed using the Unity game engine. 
+These are all being developed using the Unity game engine, which I have the most experience in, but I have made projects using a myriad of tools. I've made prototypes in Godot, Phaser, Pygame, and Octave, from scratch in Java, JavaScript, and C++, and a bit of Minecraft modding.
+
+Here are some of those projects:
+
+*   [Untitled JavaScript Game](./untitledjavascriptgame.html)
+*   [Untitled Godot Game](./pages/untitledgodotgame.html)
+*   [Fish Ninja](./pages/fishninja.html)
+*   [Planet Clicker](./pages/planetclicker.html)
+*   [Ben's Mod](./pages/benmod.html)
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 ```js
 // Javascript code with syntax highlighting.
@@ -25,27 +30,6 @@ var fun = function lang(l) {
   return true;
 }
 ```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -57,20 +41,6 @@ end
 ### There's a horizontal rule below this.
 
 * * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
 
 ### And a nested list:
 
@@ -91,29 +61,3 @@ end
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
