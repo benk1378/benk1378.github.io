@@ -16,16 +16,5 @@ These are all being developed using the Unity game engine, which I have the most
 
 **Here are some of those projects:**
 
-*   [Untitled Godot Game](./pages/untitledgodotgame.html)
-*   [Fish Ninja](./pages/fishninja.html)
-*   [Planet Clicker](./pages/planetclicker.html)
-*   [Untitled JavaScript Game](./pages/untitledjavascriptgame.html)
-*   [Solar Survivors](./pages/solarsurvivors.html)
-
-* * *
-
-**Other Projects**
-
-*   [Ben's Minecraft Mod](./pages/benmod.html)
-*   [Digital Art Project](./pages/digitalartproject.html)
-*   [Command Line Wordle](./pages/wordle.html)
+*   [Fish Ninja (GNU Octave)](./pages/fishninja.html)
+*   [Solar Survivors (JavaScript)](./pages/solarsurvivors.html)
