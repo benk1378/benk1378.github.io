@@ -4,8 +4,8 @@ layout: default
 
 ## Planet Clicker
 
-Planet Clicker is a clicker game made using pygame.
+Planet Clicker is an idle game made in Python using pygame.
 
-[GitHub link](https://github.com/benk1378/Planet-Clicker.git)
+[GitHub repo](https://github.com/benk1378/Planet-Clicker)
 
 [back](/)

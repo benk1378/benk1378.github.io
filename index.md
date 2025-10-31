@@ -6,15 +6,21 @@ I am a third year CS student at Cal Poly Humboldt, and in my free time I make vi
 
 * * *
 
-**Currently I have three main games that I'm working on:**
+## School Projects
 
-*   [ROCK](./pages/rock.html)
-*   [Chopper](./pages/chopper.html)
-*   [Yummy Dungeon](./pages/yummydungeon.html)
+For school most of my experience revolves around using C++ and Linux, and the projects I've made focus on implementing algorithms or design patterns we learn in class.
 
-These are all being developed using the Unity game engine, which I have the most experience in, but I have made projects using a myriad of tools. I've made prototypes in Godot, Phaser, Pygame, and Octave, and from scratch in Java, JavaScript, and C++.
-
-**Here are some of those projects:**
-
+*   [Computer Vision System (C/CUDA)](./pages/robotics.html)
+*   [Diagram Editor (C++/Qt)](./pages/diagrrameditor.html)
 *   [Fish Ninja (GNU Octave)](./pages/fishninja.html)
-*   [Solar Survivors (JavaScript)](./pages/solarsurvivors.html)
+
+* * *
+
+## Personal Projects
+
+For personal projects I've made a handful of small games, with a majority of my time spent using the Unity game engine. Here are the largest and most complete games I've made:
+
+*   [ROCK (Unity)](./pages/rock.html)
+*   [Yummy Dungeon (Unity)](./pages/yummydungeon.html)
+
+As for the smaller games, I've made them using Godot, Phaser, Pygame, and Octave, and from scratch in Java, JavaScript, and C++. They end up being prototypes mainly just to get some familiarity with the language. Here's one as an example: [Solar Survivors (JavaScript)](/webprojects/solarsurvivors/)
