@@ -14,4 +14,4 @@ Video of me using the editor below
 
 * * *
 
-![](./assets/vid/diagrameditor.mp4)
+![](/assets/vid/diagrameditor.mp4)

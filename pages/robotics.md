@@ -15,16 +15,16 @@ Some photos and videos of development below
 * * *
 
 One of the events for the final where each team's robot competed, and we got 3rd place overall
-![](./assets/vid/robolympics.mov)
+![](/assets/vid/robolympics.mov)
 
 Our first test of the fully working robot
-![](./assets/vid/robotestrun.mov)
+![](/assets/vid/robotestrun.mov)
 
 Debugging our depth map calculations in the hallway
-![](./assets/vid/robodebug.mov)
+![](/assets/vid/robodebug.mov)
 
 Testing out an edge detection algorithm
-![](./assets/img/roboedgetest.jpg)
+![](/assets/img/roboedgetest.jpg)
 
 Some camera calibration
-![](./assets/img/robocalibration.jpg)
+![](/assets/img/robocalibration.jpg)

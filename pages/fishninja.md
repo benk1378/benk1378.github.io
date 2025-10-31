@@ -15,4 +15,4 @@ A video of me playing the game below
 * * *
 
 Rules: cut all the fish, don't cut the crabs
-![](./assets/vid/fishninja.mp4)
+![](/assets/vid/fishninja.mp4)

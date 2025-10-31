@@ -11,7 +11,7 @@ I am a third year CS student at Cal Poly Humboldt, and in my free time I make vi
 For school most of my experience revolves around using C++ and Linux, and the projects I've made focus on implementing algorithms or design patterns we learn in class.
 
 *   [Computer Vision System (C/CUDA)](./pages/robotics.html)
-*   [Diagram Editor (C++/Qt)](./pages/diagrrameditor.html)
+*   [Diagram Editor (C++/Qt)](./pages/diagrameditor.html)
 *   [Fish Ninja (GNU Octave)](./pages/fishninja.html)
 
 * * *
