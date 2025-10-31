@@ -12,4 +12,4 @@ As part of my Software Design class we had to collectively design and implement 
 
 Video of me using the editor below
 
-https://github.com/user-attachments/assets/5b81e60f-af56-4630-908b-7d832038a7a6
+![](https://github.com/user-attachments/assets/5b81e60f-af56-4630-908b-7d832038a7a6)

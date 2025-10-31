@@ -18,16 +18,14 @@ One of the events for the final where each team's robot competed, and we got 3rd
 
 
 
-![](/assets/vid/robolympics.MOV)
-
 Our first test of the fully working robot
 
 
-![](/assets/vid/robotestrun.MOV)
+/assets/vid/robotestrun.MOV
 
 Debugging our depth map calculations in the hallway
 
-![](/assets/vid/robodebug.MOV)
+/assets/vid/robodebug.MOV
 
 Testing out an edge detection algorithm
 
