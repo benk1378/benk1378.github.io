@@ -10,8 +10,5 @@ As part of my Software Design class we had to collectively design and implement 
 
 [back](/)
 
-Video of me using the editor below
-
-* * *
 
 ![](/assets/vid/diagrameditor.mp4)
