@@ -10,8 +10,6 @@ Fish Ninja is a parody of Fruit Ninja, made in GNU Octave (MATLAB) during my fir
 
 [back](/)
 
-A video of me playing the game below
-
 Rules: cut all the fish, don't cut the crabs
 
 
