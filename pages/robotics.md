@@ -16,23 +16,35 @@ Some photos and videos of development below
 
 One of the events for the final where each team's robot competed, and we got 3rd place overall
 
-
+<video width="100%" height="100%" autoplay muted>
+  <source src="/assets/vid/robolympics.MOV" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 Our first test of the fully working robot
 
-
-/assets/vid/robotestrun.MOV
+<video width="100%" height="100%" autoplay muted>
+  <source src="/assets/vid/robotestrun.MOV" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 Debugging our depth map calculations in the hallway
 
-/assets/vid/robodebug.MOV
+<video width="100%" height="100%" autoplay muted>
+  <source src="/assets/vid/robodebug.MOV" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 Testing out an edge detection algorithm
 
-
-![](/assets/img/roboedgetest.jpg)
+<img width="100%" height="100%">
+  <source src="/assets/vid/roboedgetest.jpg" type="video/mp4">
+Your browser does not support the img tag.
+</img>
 
 Some camera calibration
 
-
-![](/assets/img/robocalibration.jpg)
+<img width="100%" height="100%">
+  <source src="/assets/vid/robocalibration.jpg" type="video/mp4">
+Your browser does not support the img tag.
+</img>

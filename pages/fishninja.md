@@ -12,5 +12,7 @@ Fish Ninja is a parody of Fruit Ninja, made in GNU Octave (MATLAB) during my fir
 
 Rules: cut all the fish, don't cut the crabs
 
-
-![](/assets/vid/fishninja.mp4)
+<video width="100%" height="100%" autoplay muted>
+  <source src="/assets/vid/fishninja.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
