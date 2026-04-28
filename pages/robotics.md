@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Robotics
+## Computer Vision System
 
 For my Robotics class we had to work in teams of 4 and use a plethora of tools to create a vision system for our robot. We used Jetson Nanos provided by Nvidia to run our vision system and capture video in real time, and we used arduinos and motors to control the wheels corresponding to the generated depth map. Most of the class was spent on undertanding the math required for the depth calculation, then applying it using the OpenCV library, as well as learning how to write CUDA code so the calculation could be parallelized on the GPU.
 
@@ -10,35 +10,29 @@ For my Robotics class we had to work in teams of 4 and use a plethora of tools t
 
 [back](/)
 
-Some photos and videos of development below
-
 * * *
-
-One of the events for the final where each team's robot competed, and we got 3rd place overall
 
 <video width="100%" height="100%" controls>
   <source src="/assets/vid/robolympics.MOV" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-Our first test of the fully working robot
+One of the events for the final where each team's robot competed, and we got 3rd place overall
 
 <video width="100%" height="100%" controls>
   <source src="/assets/vid/robotestrun.MOV" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-Debugging our depth map calculations in the hallway
+Our first test of the fully working robot
 
 <video width="100%" height="100%" controls>
   <source src="/assets/vid/robodebug.MOV" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-Testing out an edge detection algorithm
-
-<img src="/assets/img/roboedgetest.jpg" width="100%" height="100%">
-
-Some camera calibration
+Debugging our depth map calculations in the hallway
 
 <img src="/assets/img/robocalibration.jpg" width="100%" height="100%">
+
+Some camera calibration

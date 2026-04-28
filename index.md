@@ -10,17 +10,17 @@ I am a third year CS student at Cal Poly Humboldt, and in my free time I make vi
 
 For school most of my experience revolves around using C++ and Linux, and the projects I've made focus on implementing algorithms or design patterns we learn in class.
 
+*   [Database Design (SQL)](./pages/dbdesign.html)
 *   [Computer Vision System (C/CUDA)](./pages/robotics.html)
 *   [Diagram Editor (C++/Qt)](./pages/diagrameditor.html)
-*   [Fish Ninja (GNU Octave)](./pages/fishninja.html)
+*   [Fish Ninja (MATLAB)](./pages/fishninja.html)
 
 * * *
 
 ## Personal Projects
 
-For personal projects I've made a handful of small games, with a majority of my time spent using the Unity game engine. Here are the largest and most complete games I've made:
+For personal projects I make video games, with a majority of my time spent using the Unity game engine. Currently I have one fully completed and published game:
 
-*   [ROCK (Unity)](./pages/rock.html)
-*   [Yummy Dungeon (Unity)](./pages/yummydungeon.html)
+*   [ROCK (C#/Unity)](./pages/rock.html)
 
-As for the smaller games, I've made them using Godot, Phaser, Pygame, and Octave, and from scratch in Java, JavaScript, and C++. They end up being prototypes mainly just to get some familiarity with the language. Here's one as an example: [Solar Survivors (JavaScript)](/webprojects/solarsurvivors/)
+I also have some web demos I've made on my [itch.io page](https://benk1378.itch.io/), just prototypes to see if they're worth turning into full titles. Finally, I've made a handful of much smaller games in different programs and languages. I've made them using Godot, Phaser, Pygame, and Octave, and from scratch in Java, JavaScript, and C++. They end up being prototypes mainly just to get some familiarity with the language. Here's one as an example: [Solar Survivors (JavaScript)](/webprojects/solarsurvivors/)
