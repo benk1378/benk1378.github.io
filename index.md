@@ -23,4 +23,4 @@ For personal projects I make video games, with a majority of my time spent using
 
 *   [ROCK (C#/Unity)](./pages/rock.html)
 
-I also have some web demos I've made on my [itch.io page](https://benk1378.itch.io/), just prototypes to see if they're worth turning into full titles. Finally, I've made a handful of much smaller games in different programs and languages. I've made them using Godot, Phaser, Pygame, and Octave, and from scratch in Java, JavaScript, and C++. They end up being prototypes mainly just to get some familiarity with the language. Here's one as an example: [Solar Survivors (JavaScript)](/webprojects/solarsurvivors/)
+I also have some web demos I've made on my [itch.io page](https://benk1378.itch.io/) and a handful of much smaller games in different programs and languages. I've made them using Godot, Phaser, Pygame, and Octave, and from scratch in Java, JavaScript, and C++. They end up being prototypes mainly just to get some familiarity with the language. Here's one as an example: [Solar Survivors (JavaScript)](/webprojects/solarsurvivors/)
